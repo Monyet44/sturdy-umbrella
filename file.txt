@@ -1,0 +1,4 @@
+2019/11/10-10:37:44 Receving Boot complete Intent context = android.app.ReceiverRestrictedContext@8d2f99b
+2019/11/10-10:37:44 CASE 4
+2019/11/10-10:40:48 Receving Boot complete Intent context = android.app.ReceiverRestrictedContext@794e8d6
+2019/11/10-10:40:48 CASE 4
